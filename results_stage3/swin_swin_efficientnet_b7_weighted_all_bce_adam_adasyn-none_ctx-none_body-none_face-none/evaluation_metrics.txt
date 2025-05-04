@@ -1,0 +1,33 @@
+Evaluation Metrics:
+Mean Average Precision (mAP): 0.3070
+Per-Emotion AP:
+  Emotion_0: 0.4196
+  Emotion_1: 0.1226
+  Emotion_2: 0.1658
+  Emotion_3: 0.5875
+  Emotion_4: 0.0735
+  Emotion_5: 0.7828
+  Emotion_6: 0.1995
+  Emotion_7: 0.3196
+  Emotion_8: 0.2026
+  Emotion_9: 0.2032
+  Emotion_10: 0.0243
+  Emotion_11: 0.8769
+  Emotion_12: 0.1580
+  Emotion_13: 0.7219
+  Emotion_14: 0.1351
+  Emotion_15: 0.0805
+  Emotion_16: 0.7715
+  Emotion_17: 0.1310
+  Emotion_18: 0.2770
+  Emotion_19: 0.5022
+  Emotion_20: 0.3774
+  Emotion_21: 0.1387
+  Emotion_22: 0.3847
+  Emotion_23: 0.0755
+  Emotion_24: 0.1564
+  Emotion_25: 0.0950
+Accuracy: 0.0734
+Precision: 0.5042
+Recall: 0.0734
+F1 Score: 0.0172
